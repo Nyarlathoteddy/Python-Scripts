@@ -1,5 +1,5 @@
 def my_info():
-    name = "Gage Rotz"
+    name = "Teddy"
     age = "20"
     color = "Blue"
     print(name)

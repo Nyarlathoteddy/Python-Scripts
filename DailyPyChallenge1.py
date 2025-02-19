@@ -16,9 +16,9 @@ is not official support for multiline comments in Python.
 Create a print statement to say ‘Hello [Name]’ using the variable for your name. 
 How can you get python to pull the variable value inside of the print statement string (don’t break out of the quotes)?
 """
-name = "Gage Rotz"
+name = "Teddy"
 print(f"Hello {name}") #Using an f-string to insert the name, which was added in Python 3.6.
-name = 'Gage Rotz'
+name = 'Teddy'
 print(f'Hello {name}')
 
 #4) Compare the results of #3 using single and double quotes around the string. Does it make a difference like it does in PowerShell?
